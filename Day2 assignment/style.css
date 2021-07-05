@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  border-bottom: 0.09em solid black;
+  height: 1.5em;
+  font-family: arial;
+}
+
+body{
+  font-size: 1.3em;
+  background-color: #f2f5f4;
+}
+/*para3 styled using external css*/
+.para3{
+  background-color:#b5b1a8;
+}
